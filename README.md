@@ -27,19 +27,12 @@ The **IPL Dashboard** is an interactive data visualization project built using *
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. Explore the **interactive visualizations**, apply **filters**, and analyze **team & player performance**.
 
-## Screenshots 📸
-_(Add relevant screenshots of the dashboard here)_
 
 ## Future Enhancements 🔮
 - **Live Data Integration** for real-time IPL match updates.
 - **Predictive Analytics** using Machine Learning models.
 - **Web-Based Deployment** for broader accessibility.
 
-## Contributing 🤝
-Contributions are welcome! Feel free to **fork** this repository, create a **new branch**, and submit a **pull request**.
-
-## License 📜
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 ⭐ **Star this repo** if you find it useful!
